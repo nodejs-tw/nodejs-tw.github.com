@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Node.js 出版品
+title: 書店
 ---
 
 {% include JB/setup %}
