@@ -9,8 +9,8 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Node.js Taiwan Books
-tagline: Site Tagline
+title : Node.js Taiwan 書店
+tagline: a_tagline
 author :
   name : Node.js Taiwan
   email : clonncd@gmail.com

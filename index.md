@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Node.js 電子書
+title: Node.js 出版品
 ---
 
 {% include JB/setup %}
 
-## Node.js 中文教學手冊
+## Node.js 中文教學手冊（電子書）
 
 由 Node.js Taiwan 社群作者共筆
 
