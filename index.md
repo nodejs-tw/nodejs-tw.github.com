@@ -5,15 +5,12 @@ title: 書店
 
 {% include JB/setup %}
 
-## Node.js 中文教學手冊（電子書）
+### 出版服務
 
-由 Node.js Taiwan 社群作者共筆
+Node.js Taiwan 提供自助出版服務，歡迎有志分享技術的同好一起熱血 : )
 
-![Cover](https://github.com/nodejs-tw/nodejs-wiki-book/raw/master/_static/cover_thumb.png)
+### 已發佈電子書
 
-下載
+* [Node.js 中文教學手冊](/2012/02/13/nodejs-wiki-book/)
 
-* [pdf](http://contpub.org/download/nodejs-wiki-book.pdf)
-* [epub](http://contpub.org/download/nodejs-wiki-book.epub)
-* [mobi](http://contpub.org/download/nodejs-wiki-book.mobi)
-
+您也可以參觀 [Node.js Taiwan 首頁](http://nodejs.tw/)
