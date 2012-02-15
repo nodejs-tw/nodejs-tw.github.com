@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Node.js 中文教學手冊"
-category: 電子書
+category: ebook
 tags: [電子書, 入門, 進階]
 ---
 {% include JB/setup %}

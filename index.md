@@ -7,7 +7,9 @@ title: 書店
 
 ### Node.js Taiwan 發行之電子書
 
-* [Node.js 中文教學手冊](/2012/02/13/nodejs-wiki-book/)
+{% for post in site.posts  %}
+* [{{post.title}}]({{ BASE_PATH }}{{ post.url }})
+{% endfor %}
 
 #### Node.js Taiwan 出版服務
 
@@ -21,6 +23,7 @@ Node.js Taiwan 提供自助出版服務，歡迎有志分享技術的同好一�
 * [The Little Book on CoffeeScript](http://shop.oreilly.com/product/0636920024309.do), January 2012, Alex MacCaw, O'Reilly Media
 * [Node for Front-End Developers](http://shop.oreilly.com/product/0636920023258.do), January 2012, Garann Means, O'Reilly Media
 * [Building Hypermedia APIs with HTML5 and Node](http://shop.oreilly.com/product/0636920020530.do), November 2011, Mike Amundsen, O'Reilly Media
+* [Node Web Development](http://www.packtpub.com/node-javascript-web-development/book), August 2011, David Herron, PacktPub
 * [CoffeeScript: Accelerated JavaScript Development](http://pragprog.com/book/tbcoffee/coffeescript), July 2011, Trevor Burnham, Pragmatic Bookshelf
 * [Getting Started with GEO, CouchDB, and Node.js](http://shop.oreilly.com/product/0636920020806.do), July 2011, Mick Thompson, O'Reilly Media
 * [What Is Node?](http://shop.oreilly.com/product/0636920021506.do), July 2011, Brett McLaughlin, O'Reilly Media
