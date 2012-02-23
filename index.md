@@ -17,7 +17,7 @@ Node.js Taiwan 提供自助出版服務，歡迎有志分享技術的同好一�
 
 您也可以參觀 [Node.js Taiwan 首頁](http://nodejs.tw/)
 
-### Node.js 相關書籍彙整
+### Node.js 書籍
 
 * [Programming Node.js](http://shop.oreilly.com/product/9781934356890.do), April 2012 (est.), Travis Swicegood, Pragmatic Bookshelf
 * [The Little Book on CoffeeScript](http://shop.oreilly.com/product/0636920024309.do), January 2012, Alex MacCaw, O'Reilly Media
@@ -31,11 +31,16 @@ Node.js Taiwan 提供自助出版服務，歡迎有志分享技術的同好一�
 * [The Node Beginner Book](http://www.nodebeginner.org/), Manuel Kiessling
 * [Mastering Node.js](http://visionmedia.github.com/masteringnode/), visionmedia
 
-### Node.js 影音
+### Node.js 影音教學
 
 * [The Node Sessions: The Best of OSCON 2011](http://shop.oreilly.com/product/0636920022183.do), August 2011, O'Reilly Media (Video)
 * [Tom Hughes-Croucher on Node](http://shop.oreilly.com/product/0636920017080.do), March 2011, O'Reilly Media (Video)
 
-### Node.js 線上資源彙整
+### Node.js 教學網站
 
 * [Node Tuts](http://nodetuts.com/)
+
+### Node.js 課程
+
+* [Introduction To Node.js](http://codelesson.com/courses/view/introduction-to-node-js), Van Nguyen, CodeLesson
+
